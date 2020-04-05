@@ -1,7 +1,0 @@
-echo "# Dawn-of-War-Dimension-X" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Alattack30/Dawn-of-War-Dimension-X.git
-git push -u origin master
-                
